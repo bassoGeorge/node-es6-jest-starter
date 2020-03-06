@@ -1,0 +1,11 @@
+{
+  "name": "es6-starter",
+  "version": "1.0.0",
+  "description": "Starter kit with node and es6 support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
