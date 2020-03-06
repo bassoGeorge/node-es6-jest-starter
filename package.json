@@ -23,7 +23,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run format-staged-files"
+      "pre-commit": "npm test && npm run format-staged-files",
+      "pre-push": "npm test"
     }
   }
 }
